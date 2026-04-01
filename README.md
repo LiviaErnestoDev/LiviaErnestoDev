@@ -33,6 +33,6 @@
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&&theme=tokyonight" alt="Seu nome" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LiviaErnestoDev&&theme=tokyonight" alt="livia h" /></p>
 
-![Snake animation](https://github.com/SEUUSUARIO/SEUUSUARIO/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/LiviaErnestoDev/LiviaErnestoDev/blob/output/github-contribution-grid-snake-dark.svg)
